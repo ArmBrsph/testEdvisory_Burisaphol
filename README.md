@@ -6,3 +6,4 @@
 5. updateNote อัปเดตได้โดยตาม id ของ note ที่ต้องการเปลี่ยน เเละใส่ข้อมูลที่ต้องการเปลี่ยน จากนั้น HistoryNote จะอัปเดตให้เป็นวันปัจจุยันที่เเก้ไข
 6. deleteNote ลบ Note ตาม id
 7. getManyNote ค้นหา note ที่ต้องการหา โดย search คือหาชื่อ Note , customer หา ชื่อ customer เเละ catagory หาประเภท
+8. ใช้ MoongoDB database เชื่อมเพื่อเก็บข้อมูล 
